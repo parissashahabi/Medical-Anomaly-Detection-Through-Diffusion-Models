@@ -1,1 +1,1 @@
-"# Medical-Anomaly-Detection-Through-Diffusion-Models" 
+# Medical Anomaly Detection Through Diffusion Models
